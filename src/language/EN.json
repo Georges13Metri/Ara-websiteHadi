@@ -1,0 +1,36 @@
+{
+  "navbar": {
+    "home": "Home",
+    "services": "Services",
+    "solutions": "Solutions",
+    "partners": "Partners",
+    "contact": "Contact Us",
+    "Our End-to-End Capability Areas": "Our End-to-End Capability Areas",
+    "Strategy Consulting": "Strategy Consulting",
+    "Mobile BB (LTE) Development": "Mobile BB (LTE) Development",
+    "Fixed BB (FTTx) Everywhere": "Fixed BB (FTTx) Everywhere",
+    "Full Service Bearer": "Full Service Bearer",
+    "Cloud Deployments": "Cloud Deployments",
+    "Mobile Network Solutions": "Mobile Network Solutions",
+    "Build & manage your radio & transmission sites": "Build & manage your radio & transmission sites",
+    "Traffic Management & Optimization": "Traffic Management & Optimization",
+    "Mobile Network Monitoring": "Mobile Network Monitoring",
+    "Multi-dimensional Data Visualization & Analytics": "Multi-dimensional Data Visualization & Analytics",
+    "Mobile Network Auditing, Optimization & Integration": "Mobile Network Auditing, Optimization & Integration",
+    "Parental Controller": "Parental Controller",
+    "Value-Added Services": "Value-Added Services"
+  },
+  "hero": {
+    "STRATEGIC CONSULTING,": "STRATEGIC CONSULTING,",
+    "TREND ANALYSIS &":"TREND ANALYSIS &",
+    "PRACTICAL SOLUTIONS":"PRACTICAL SOLUTIONS",
+    "FOR TELECOMS INDUSTRY":"FOR TELECOMS INDUSTRY"
+  },
+  "hero2":{
+    "hero2title":"ARA TECHNOLOGIES - HARNESS DIGITAL TRANSFORMATION FOR BUSINESS SUCCESS",
+    "hero2paragraph":"Offering a deep understanding of the business needs of telecoms operators, ARA Technologies empower our partners to successfully navigate transition and harness change in the ICT sphere. We can provide enhanced data and network analysis, a high-quality user experience and future-proof evolution of technology for your business and network. Using the latest developments in artificial intelligence and machine learning, we drive digital transformation and deliver seamless connectivity and network convergence to your doorstep. With our strategic consulting, end-to-end capabilities and practical solutions, transformation creates endless opportunity for growth and success."
+  },
+  "hero3":{
+    "hero3title":"Your strategic partner in the ICT Sphere"
+  }
+}
